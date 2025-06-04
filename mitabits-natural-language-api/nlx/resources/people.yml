@@ -1,0 +1,30 @@
+Peter Norvig:
+  dob: 1956-12-14
+  bio: Peter Norvig is an American computer scientist. He is a director of research at Google Inc., and used to be its director of search quality.
+
+Bill Gates:
+  synonyms: William Henry Gates III
+  dob: 1955-10-28
+  bio: William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation.
+
+Geoffrey Hinton:
+  synonyms: Geoffrey Everest Hinton, Geoffrey E. Hinton
+  dob: 1947-12-06
+  bio: Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.
+
+
+Alan Turing:
+  synonyms: Alan Mathison Turing
+  dob: 1912-06-23
+  bio: Alan Mathison Turing is an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence.
+
+
+Mark Zuckerberg:
+  synonyms: Mark Elliot Zuckerberg
+  dob: 1984-05-14
+  bio: Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder.
+
+Elon Musk:
+  synonyms: Elon Reeve Musk
+  dob: 1971-06-28
+  bio: Elon Reeve Musk is an engineer, industrial designer, technology entrepreneur and philanthropist. He is the founder, CEO, CTO and chief designer of SpaceX; early investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI.

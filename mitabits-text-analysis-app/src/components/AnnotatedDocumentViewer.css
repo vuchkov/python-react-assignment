@@ -1,0 +1,32 @@
+.annotated-document {
+  color: #383d41;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+}
+.entity {
+  display: inline-block;
+  padding: .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+.entity-type-person {
+  background-color: #467fcf;
+  color: #fff;
+}
+.entity-type-role {
+  background-color: #a55eea;
+  color: #fff;
+}      
+.entity-type-org {
+  background-color: #45aaf2;
+  color: #fff;
+}      
